@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi, I'm Collins 👋
 
-<!--
-**Collinsgora/collinsgora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Cloud Security Engineer with a strong interest in cloud infrastructure, cybersecurity, and AI.
+I enjoy building hands-on labs in Microsoft Azure to develop real-world cloud and security skills.
 
-Here are some ideas to get you started:
+🔐 Certifications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CompTIA Network+
+
+CompTIA Security+
+
+Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
+
+Microsoft Certified: Azure Fundamentals (AZ-900)
+
+Microsoft AI Professional Certificate
+
+📚 Currently Studying
+
+Microsoft Azure Administrator (AZ-104)
+
+Cloud Security Engineering
+
+Security Operations (SOC) Fundamentals
